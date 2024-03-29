@@ -5,7 +5,6 @@ pandas
 scikit-learn
 tensorflow
 tf-models-official
-# Kaggle required by tf-models-official is incompatible with py36 from slugify
 kaggle
 tensorflow-probability
 tf_slim
@@ -14,4 +13,3 @@ beautifulsoup4
 html5lib
 gensim
 lxml
-
